@@ -1,0 +1,1 @@
+Code implementation and data for the work "Multi-stage stochastic programming for the closed-loop supply chain planning with mobile modules under uncertainty", including GAMS code and supplementary jupyter notebooks 
